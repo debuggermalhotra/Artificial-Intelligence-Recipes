@@ -3,8 +3,8 @@ The 2 main types of searches:
 > Uninformd searches
 1. Breadth First Search
 2. Depth First Search
-3. Brute force/Blind search
-4. Greedy Search
+3. Uniform cost search
+4. Iterative deepening Search
 
 
 > Informed searches
