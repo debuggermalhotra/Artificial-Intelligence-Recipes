@@ -1,4 +1,4 @@
-The 2 main types of searches:
+### Some of the intelligent searches,this repo will contain:
 
 > Uninformd searches
 1. Breadth First Search
