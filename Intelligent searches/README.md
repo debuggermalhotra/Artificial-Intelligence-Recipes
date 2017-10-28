@@ -13,7 +13,7 @@
 3. A* search
 4. AO* Search
 5. Hill Climbing
-6. generate Test Search
+6. Generate Test Search
 7. Local Beam Search
 8. Constraint Satisfaction Search
 9. Simulation Annealing
